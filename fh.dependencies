@@ -2,5 +2,6 @@
   {
     "repository": "android_device_xiaomi_msm8956-common",
     "target_path": "device/xiaomi/msm8956-common"
+    "branch"     : "o8.1"
   }
 ]

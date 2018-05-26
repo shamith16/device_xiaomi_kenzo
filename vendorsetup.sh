@@ -1,0 +1,3 @@
+add_lunch_combo fh_kenzo-eng
+add_lunch_combo fh_kenzo-user
+add_lunch_combo fh_kenzo-userdebug
